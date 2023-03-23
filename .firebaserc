@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "ilovefood-test-idea"
-  }
+  },
+  "targets": {
+    "ilovefood-test-idea": {
+      "hosting": {
+        "landing-page": [
+          "ilovefood"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
